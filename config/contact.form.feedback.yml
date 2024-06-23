@@ -1,0 +1,14 @@
+uuid: 3d0d25ac-d9b0-4f65-94ae-62fb96516241
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - mike.burns@upstatement.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
