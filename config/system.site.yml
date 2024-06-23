@@ -4,7 +4,7 @@ langcode: en
 uuid: bff92912-ad5e-4ec3-9d45-f1b1f1adf656
 name: pantheon-build-tools-drupal
 mail: mike.burns@upstatement.com
-slogan: 'Drupal on Pantheon via Build Tools'
+slogan: 'Drupal 9 on Pantheon via Build Tools'
 page:
   403: ''
   404: ''
